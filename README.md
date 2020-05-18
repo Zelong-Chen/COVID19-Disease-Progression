@@ -10,9 +10,11 @@ We aim to model the COVID-19 virus as an infectious disease under the SEIR (Susc
 ![alt text](https://github.com/Zelong-Chen/COVID19-Disease-Progression/blob/master/images/seird.PNG)
 
 ### SEIR-D + Stay-At-Home Order
+Parameter: Mobility Trend = 70%, 40%, 25%, 10%
 ![alt text](https://github.com/Zelong-Chen/COVID19-Disease-Progression/blob/master/images/seird_stay.PNG)
 
 ### SEIR-D + Testing / Contact Tracing
+Parameter: Testing Capacity = 16,000, 25,000, 70,000
 ![alt text](https://github.com/Zelong-Chen/COVID19-Disease-Progression/blob/master/images/seird_testing.PNG)
 
 ### All-in-One Model
